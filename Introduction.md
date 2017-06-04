@@ -2,38 +2,24 @@
 Our 'first commit'.
 
 
-- [WHY GIT?](#git and github)
+- [WHY GIT?](#git-and-github)
 - [HISTORY](#history)
 - [FAQ](#faq)
 
 # GIT AND GITHUB
-Git is a distributed version control system. Let's break down what that means.
-'Distributed' refers to how each collaborator has their own repository - their own copy of the entire project - which is stored locally. There is no single 'sandbox' that holds the project and its history within it, as every developer has their own local sandbox 
+Git is a *distributed version control system*. Let's break down what that means.
 
-Git is a system that is used to keep track of the history of your project, as well as enable others to collaborate on the project together.
-    
-    ## Alexa app
-    1. On the left panel, tap on 'Skills'.
-    2. In the search bar, type 'WhereInTheWorld'.
-    3. Tap 'Enable Skill'.
+_Distributed_ refers to how each collaborator has their own repository - their own copy of the entire project - which is stored locally. There is no single 'sandbox' that holds the project and its history within it, as every developer has their own local sandbox where they can make changes offline.
+Note that this is in constrast with _Centralized_s version control systems, where everyone's changes are maintained on a central server that each collaborator pulls from and pushes to.
 
-    ## Online
-    1. Navigate to https://www.amazon.com/skills.
-    2. In the search bar, type 'WhereInTheWorld'.
-    3. Under 'Get This Skill', click on the Enable button.
+Git is a system that is used to keep track of the history of your project, as well as enable others to collaborate on the project together. Think of it as *social coding*!
+
+If Git is the language of social coding, then GitHub is like our 'Facebook' - the social network. GitHub is the place to store your projects and share them with the world.
 
 # HISTORY
-
+Git was created by the inventor of Linux, Linus Torvalds in 2005.
 
 # FAQ
-
-### How do I start a new game?
-
-If you've already enabled the skill on your device, you can simply ask Alexa to launch or play WhereInTheWorld.
-
-### What if I got distracted and didn't hear the last question?
-
-To repeat the last question, say 'repeat'.
 
 ### What resources can I use to Git even better?
 Resources I used:
