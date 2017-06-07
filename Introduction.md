@@ -2,15 +2,15 @@
 Our 'first commit'.
 
 
-- [WHY GIT?](#git-and-github)
+- [GIT AND GITHUB](#git-and-github)
 - [HISTORY](#history)
 - [FAQ](#faq)
 
 # GIT AND GITHUB
 Git is a *distributed version control system*. Let's break down what that means.
 
-_Distributed_ refers to how each collaborator has their own repository - their own copy of the entire project - which is stored locally. There is no single 'sandbox' that holds the project and its history within it, as every developer has their own local sandbox where they can make changes offline.
-Note that this is in constrast with _Centralized_s version control systems, where everyone's changes are maintained on a central server that each collaborator pulls from and pushes to.
+**Distributed** refers to how each collaborator has their own repository - their own copy of the entire project - which is stored locally. There is no single 'sandbox' that holds the project and its history within it, as every developer has their own local sandbox where they can make changes offline.
+Note that this is in constrast with **centralized** version control systems, where everyone's changes are maintained on a central server that each collaborator pulls from and pushes to.
 
 Git is a system that is used to keep track of the history of your project, as well as enable others to collaborate on the project together. Think of it as *social coding*!
 
@@ -23,7 +23,7 @@ Git was created by the inventor of Linux, Linus Torvalds in 2005.
 
 ### What resources can I use to Git even better?
 Resources I used:
-- [Git Cheat Sheet] (https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - And of course, Google!
 
 ### I've found an issue in the guide, or I have an idea for improvement. How can I get it fixed?
