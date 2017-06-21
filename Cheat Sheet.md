@@ -10,6 +10,10 @@
 
 - **Pull Request** - a change you've made in someone else's project that you submit for review
 
+- **Stage** - to prepare file(s) for a commit
+
+- **Commit** - a snapshot of your project that records all the changes you've made locally
+
 - Branch
 - Clone
 - Track
