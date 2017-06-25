@@ -14,6 +14,8 @@
 
 - **Commit** - a snapshot of your project that records all the changes you've made locally
 
-- Branch
-- Clone
+- **Clone** - take an existing repository and make a copy of it
+
 - Track
+- Merge
+- Branch
