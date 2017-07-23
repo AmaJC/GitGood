@@ -12,10 +12,15 @@
 
 - **Stage** - to prepare file(s) for a commit
 
+- **Init** - initializes a new git project in the folder you're in
+
 - **Commit** - a snapshot of your project that records all the changes you've made locally
 
 - **Clone** - take an existing repository and make a copy of it
 
+- **Checkout** - used to switch to a given branch by updating the files in the working directory and pointing HEAD at the given branch
+
+- **Diff** - 
 - Track
 - Merge
 - Branch
